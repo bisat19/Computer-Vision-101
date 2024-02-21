@@ -1,8 +1,6 @@
 //Nama : Abisatya Hastarangga P
 //NIM  : 24060122120004
 //Lab C1
-#include <windows.h>
-#include <math.h>
 #include <GL/glut.h>
 
 void display() {
